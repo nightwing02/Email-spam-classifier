@@ -17,9 +17,9 @@ The SMS Spam Classifier project utilizes the Multinomial Naive Bayes algorithm t
 
 To get started with the SMS Spam Classifier project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/sms-spam-classifier.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Streamlit application: `streamlit run app.py`
+1. Clone the repository: `git clone https://github.com/nightwing02/Email-spam-classifier.git`
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Run the Streamlit application: `streamlit run app.py`
 
 ### Dataset
 
